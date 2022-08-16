@@ -1,0 +1,13 @@
+Para usar el SAD (Speech activity detection):
+
+* cd SAD  
+* Cargar el audio en el directorio 'audio'
+* Correr sad.py pasando como argumento el nombre del audio a procesar
+
+Para usar el Forced Aligner 
+
+* cd FA
+* Correr install.sh
+* Cargar audio y texto en 'input'
+* Correr run.sh 
+
